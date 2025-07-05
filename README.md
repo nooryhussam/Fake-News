@@ -1,4 +1,5 @@
 📰 Fake News Detection Project
+
 📌 Project Idea
 In this project, I worked on building a system that can detect fake news by classifying news articles as real or fake. My main goal was to see how feature extraction and dimensionality reduction affect the model’s accuracy.
 
